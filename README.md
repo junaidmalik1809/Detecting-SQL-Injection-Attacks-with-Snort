@@ -1,4 +1,3 @@
-# Detecting-SQL-Injection-Attacks-with-Snort
 # SQL Injection Detection with Snort IDS – Cybersecurity 
 
 ## Overview
